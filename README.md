@@ -116,7 +116,7 @@ blue-lab-soc/
 - Develop formal playbooks for common attack patterns
 - Conduct regular attack simulations to maintain analyst proficiency
 
-## Professional Contact
+## Professional Contact 
 
 This project demonstrates practical cybersecurity skills applicable to SOC analyst, security engineer, and incident responder roles. The complete lab setup, attack simulation, and enterprise documentation showcase readiness for security operations center environments.
 
